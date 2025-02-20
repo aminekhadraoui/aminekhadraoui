@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 I create **tutorials**, **project walkthroughs**, and **tech tips** on YouTube! Check out my channel for more:
 
-[![YouTube Channel](https://www.youtube.com/@CodingTipsJS)
+[YouTube Channel(https://www.youtube.com/@CodingTipsJS)
 
 ## 🌱 **Currently Learning**
 - **AWS Amplify** ☁️
